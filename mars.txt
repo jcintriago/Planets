@@ -5,4 +5,8 @@ Make changes based on this version.
 
 One more change!
 
+<<<<<<< HEAD
 This change is for GitHub
+=======
+This is a change from GitHub
+>>>>>>> 2e496c6bdbdfb84323773f6045d6e86359d3fd09
